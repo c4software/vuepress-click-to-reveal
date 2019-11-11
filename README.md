@@ -25,3 +25,5 @@ With a custom label
 ```
 
 ## Demo
+
+![Demo](demo.gif)
